@@ -1,0 +1,2 @@
+module UmadbroHelper
+end
